@@ -55,12 +55,12 @@
 
 <table>
 <tr>
-<td valign="top"><img height="165" src="./profile/top-langs.svg" alt="Top languages" /></td>
-<td valign="top"><img height="165" src="./profile/stats.svg" alt="GitHub stats" /></td>
+<td width="400" align="center" valign="top"><img width="400" src="./profile/top-langs.svg" alt="Top languages" /></td>
+<td width="400" align="center" valign="top"><img width="400" src="./profile/stats.svg" alt="GitHub stats" /></td>
 </tr>
 <tr>
-<td valign="top"><img height="165" src="./profile/pin-sql-hands-on.svg" alt="sql-hands-on" /></td>
-<td valign="top"><img height="165" src="./profile/pin-w3-resource-python.svg" alt="w3-resource-python" /></td>
+<td width="400" align="center" valign="top"><img width="400" src="./profile/pin-sql-hands-on.svg" alt="sql-hands-on" /></td>
+<td width="400" align="center" valign="top"><img width="400" src="./profile/pin-w3-resource-python.svg" alt="w3-resource-python" /></td>
 </tr>
 </table>
 

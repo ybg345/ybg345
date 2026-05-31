@@ -1,8 +1,8 @@
 
       <svg
-        width="467"
+        width="437"
         height="195"
-        viewBox="0 0 467 195"
+        viewBox="0 0 437 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -110,7 +110,7 @@
           rx="4.5"
           height="99%"
           stroke="#D0D7DE"
-          width="466"
+          width="436"
           fill="#FFFFFF"
           stroke-opacity="1"
         />
@@ -137,7 +137,7 @@
         >
           
     <g data-testid="rank-circle"
-          transform="translate(390.5, 47.5)">
+          transform="translate(367, 47.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
