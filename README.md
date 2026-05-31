@@ -20,16 +20,14 @@ Senior Data Analyst with **7+ years** of experience across healthcare, telecom, 
 
 Currently at **Streams Tech Ltd.**, contributing to healthcare AI projects and enterprise analytics for global clients.
 
-```python
-mehedi = {
-    "role": "Senior Data Analyst",
-    "location": "Dhaka, Bangladesh",
-    "education": "B.Sc. CSE — MIST",
-    "focus": ["Analytics & BI", "Data Engineering", "Agentic AI"],
-    "domains": ["Healthcare", "Telecom", "Insurance"],
-    "currently_learning": ["LLM optimization", "Prompt engineering", "dbt"],
-}
-```
+| | |
+|:--|:--|
+| **Role** | Senior Data Analyst |
+| **Location** | Dhaka, Bangladesh |
+| **Education** | B.Sc. CSE — MIST |
+| **Focus** | Analytics & BI · Data Engineering · Agentic AI |
+| **Domains** | Healthcare · Telecom · Insurance |
+| **Learning** | LLM optimization · Prompt engineering · dbt |
 
 ---
 
@@ -39,7 +37,6 @@ mehedi = {
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 **Data & Analytics**
 
@@ -51,7 +48,6 @@ mehedi = {
 
 **Engineering & AI**
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -70,26 +66,12 @@ mehedi = {
 
 ---
 
-### Featured Repositories
-
-| Repository | Description |
-|------------|-------------|
-| [**sql-hands-on**](https://github.com/ybg345/sql-hands-on) | SQL practice from Vertabelo Academy, SQLZoo, and more |
-| [**python-solved-200-problems**](https://github.com/ybg345/python-solved-200-problems) | Category-wise Python problem solutions |
-| [**data-analysis-viz-excel**](https://github.com/ybg345/data-analysis-viz-excel) | Excel data analysis & visualization exercises |
-| [**w3-resource-python**](https://github.com/ybg345/w3-resource-python) | Systematic Python & data science practice |
-| [**hacker-rank-solutions**](https://github.com/ybg345/hacker-rank-solutions) | HackerRank challenges across multiple domains |
-
----
-
-### Profile Stats
+### 📈 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ybg345&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F&border_color=D0D7DE" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ybg345&theme=default&hide_border=false&background=FFFFFF&border=D0D7DE&ring=0969DA&fire=0969DA&currStreakLabel=24292F&sideLabels=57606A&dates=57606A&currStreakNum=24292F&sideNums=24292F" alt="GitHub streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybg345&layout=compact&theme=default&hide_border=false&langs_count=8&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&border_color=D0D7DE" alt="Top languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybg345&layout=compact&theme=default&hide_border=false&langs_count=8&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&border_color=D0D7DE" alt="Top languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ybg345&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=Mehedi%20Farazi's%20GitHub%20Stats&bg_color=FFFFFF&title_color=0969DA&icon_color=1A7F37&text_color=24292F&border_color=D0D7DE" alt="GitHub stats" />
 
 </div>
 
