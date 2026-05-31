@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maf345)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ybg345)
-[![Kaggle](https://img.shields.io/static/v1?label=Kaggle&message=&color=20BEFF&logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/maf345)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/maf345)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ybg345)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ybg345&color=0969DA&style=for-the-badge&label=PROFILE+VIEWS)
@@ -82,12 +82,6 @@
 <div align="center">
 <img width="100%" src="https://github-profile-trophy-sigma-one.vercel.app/?username=ybg345&theme=flat&column=8&row=1&margin-w=2&margin-h=4&no-frame=true" alt="GitHub trophies" />
 </div>
-
----
-
-## ⚡ 𝚁𝚎𝚌𝚎𝚗𝚝 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-
-Most of my GitHub work is **commits to public learning repos** (not issues/PRs), so auto-activity widgets stay empty. See my latest work on the [activity tab](https://github.com/ybg345?tab=activity).
 
 ---
 
