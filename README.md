@@ -1,51 +1,47 @@
+[![intro](./intro.gif)](https://www.linkedin.com/in/maf345)
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mehedi+%F0%9F%91%8B;Senior+Data+Analyst;Data+%E2%86%92+Insights+%E2%86%92+Impact" alt="Typing intro" />
-
-<br/>
-
-**Turning complex data into clear decisions** · Dhaka, Bangladesh 🇧🇩
+*𝚃𝚞𝚛𝚗𝚒𝚗𝚐 𝚌𝚘𝚖𝚙𝚕𝚎𝚡 𝚍𝚊𝚝𝚊 𝚒𝚗𝚝𝚘 𝚌𝚕𝚎𝚊𝚛 𝚍𝚎𝚌𝚒𝚜𝚒𝚘𝚗𝚜 · 𝙳𝚑𝚊𝚔𝚊, 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑 🇧🇩*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maf345)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ybg345)
 [![Kaggle](https://img.shields.io/badge/Kaggle-maf345-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/maf345)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ybg345)
 
+![Profile views](https://komarev.com/ghpvc/?username=ybg345&color=0969DA&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 ---
 
-### About Me
+## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-Senior Data Analyst with **7+ years** of experience across healthcare, telecom, and microinsurance. I design analytics dashboards, build data pipelines, and develop agentic AI workflows — from Snowflake datamarts and Azure Databricks to Tableau and LLM-powered clinical tools.
-
-Currently at **Streams Tech Ltd.**, contributing to healthcare AI projects and enterprise analytics for global clients.
+- 📊 **Senior Data Analyst** with **7+ years** across healthcare, telecom, and microinsurance
+- 🏗️ 𝙸 𝚍𝚎𝚜𝚒𝚐𝚗 **dashboards**, **data pipelines**, and **agentic AI workflows** — Snowflake · Databricks · Tableau · LLMs
+- 💼 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚊𝚝 **Streams Tech Ltd.**, building healthcare AI and enterprise analytics for global clients
+- 🎓 **B.Sc. CSE** — Military Institute of Science and Technology (MIST)
 
 | | |
 |:--|:--|
 | **Role** | Senior Data Analyst |
 | **Location** | Dhaka, Bangladesh |
-| **Education** | B.Sc. CSE — MIST |
 | **Focus** | Analytics & BI · Data Engineering · Agentic AI |
 | **Domains** | Healthcare · Telecom · Insurance |
 | **Learning** | LLM optimization · Prompt engineering |
 
 ---
 
-### Certifications
-
-<div align="left">
+## 🎓 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜
 
 [![Snowflake](https://img.shields.io/badge/Snowflake-Certified-29B5E8?style=flat-square&logo=snowflake&logoColor=white)](https://www.linkedin.com/in/maf345)
 [![Kaggle ML](https://img.shields.io/badge/Kaggle-Intermediate_ML-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/maf345/intermediate-machine-learning)
 [![HackerRank Python](https://img.shields.io/badge/HackerRank-Intermediate_Python-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/ee3617078666)
 [![DataCamp](https://img.shields.io/badge/DataCamp-Power_BI_&_Deep_Learning-05192D?style=flat-square&logo=datacamp&logoColor=65FF98)](https://www.datacamp.com/)
 
-</div>
-
 ---
 
-### Tech Stack
+## 🛠 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
 
 **Languages & Core**
 
@@ -69,7 +65,7 @@ Currently at **Streams Tech Ltd.**, contributing to healthcare AI projects and e
 
 ---
 
-### What I Do
+## 💼 𝚆𝚑𝚊𝚝 𝙸 𝙳𝚘
 
 | Area | Highlights |
 |------|------------|
@@ -80,7 +76,7 @@ Currently at **Streams Tech Ltd.**, contributing to healthcare AI projects and e
 
 ---
 
-### 📈 GitHub Stats
+## 📈 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 
 <div align="center">
 <img height="180em" src="./profile/top-langs.svg" alt="Top languages" /><img height="180em" src="./profile/stats.svg" alt="GitHub stats" />
@@ -92,7 +88,7 @@ Currently at **Streams Tech Ltd.**, contributing to healthcare AI projects and e
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 𝙶𝚒𝚝𝙷𝚞𝚋 𝚃𝚛𝚘𝚙𝚑𝚒𝚎𝚜
 
 <div align="center">
 <img src="./profile/trophy.svg" alt="GitHub trophies" />
@@ -100,27 +96,27 @@ Currently at **Streams Tech Ltd.**, contributing to healthcare AI projects and e
 
 ---
 
-### ⚡ Recent Activity
+## ⚡ 𝚁𝚎𝚌𝚎𝚗𝚝 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
-### Currently
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 
-- Building **agentic AI workflows** for healthcare — prompt design, LangChain agents, LLM evaluation
-- Developing **analytics dashboards** on Snowflake datamarts and IQVIA Orchestrated Analysis
-- Maintaining **Tableau Server** dashboards with Azure Databricks backends
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+
+```yaml
+- Building agentic AI workflows for healthcare (LangChain, LLM evaluation)
+- Developing analytics dashboards on Snowflake datamarts & IQVIA Orchestrated Analysis
+- Maintaining Tableau Server dashboards with Azure Databricks backends
+```
 
 ---
 
 <div align="center">
 
-*"Data tells a story — my job is to make it readable, reliable, and actionable."*
-
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=ybg345&color=2F81F7&style=for-the-badge&label=PROFILE+VIEWS)
+*𝙳𝚊𝚝𝚊 𝚝𝚎𝚕𝚕𝚜 𝚊 𝚜𝚝𝚘𝚛𝚢 — 𝚖𝚢 𝚓𝚘𝚋 𝚒𝚜 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚒𝚝 𝚛𝚎𝚊𝚍𝚊𝚋𝚕𝚎, 𝚛𝚎𝚕𝚒𝚊𝚋𝚕𝚎, 𝚊𝚗𝚍 𝚊𝚌𝚝𝚒𝚘𝚗𝚊𝚋𝚕𝚎.*
 
 </div>
