@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maf345)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ybg345)
-[![Kaggle](https://img.shields.io/badge/Kaggle-maf345-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/maf345)
+[![Kaggle](https://img.shields.io/static/v1?label=Kaggle&message=&color=20BEFF&logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/maf345)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ybg345)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ybg345&color=0969DA&style=for-the-badge&label=PROFILE+VIEWS)
@@ -18,9 +18,21 @@
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 📊 **Senior Data Analyst** with **7+ years** across healthcare, telecom, and microinsurance
-- 🏗️ 𝙸 𝚍𝚎𝚜𝚒𝚐𝚗 **dashboards**, **data pipelines**, and **agentic AI workflows** — Snowflake · Databricks · Tableau · LLMs
+- 🏗️ 𝙸 𝚍𝚎𝚜𝚒𝚐𝚗 **dashboards**, **data pipelines**, and **agentic AI workflows** — Snowflake · Tableau · LLMs
 - 💼 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚊𝚝 **Streams Tech Ltd.**, building healthcare AI and enterprise analytics for global clients
 - 🎓 **B.Sc. CSE** — Military Institute of Science and Technology (MIST)
+
+---
+
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+
+```yaml
+- Building agentic AI workflows for healthcare (LangChain, LLM evaluation)
+- Developing analytics dashboards on Snowflake datamarts & IQVIA Orchestrated Analysis
+- Maintaining Tableau Server dashboards with cloud data warehouse backends
+```
 
 ---
 
@@ -38,7 +50,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
@@ -76,20 +87,7 @@
 
 ## ⚡ 𝚁𝚎𝚌𝚎𝚗𝚝 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-
-```yaml
-- Building agentic AI workflows for healthcare (LangChain, LLM evaluation)
-- Developing analytics dashboards on Snowflake datamarts & IQVIA Orchestrated Analysis
-- Maintaining Tableau Server dashboards with Azure Databricks backends
-```
+Most of my GitHub work is **commits to public learning repos** (not issues/PRs), so auto-activity widgets stay empty. See my latest work on the [activity tab](https://github.com/ybg345?tab=activity).
 
 ---
 
