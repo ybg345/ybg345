@@ -52,9 +52,20 @@
 ## 📈 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 
 <div align="center">
-<img height="180em" src="./profile/top-langs.svg" alt="Top languages" /><img height="180em" src="./profile/stats.svg" alt="GitHub stats" /><img height="180em" src="./profile/pin-sql-hands-on.svg" alt="sql-hands-on" /><img height="180em" src="./profile/pin-w3-resource-python.svg" alt="w3-resource-python" />
-<br />
-<img src="https://streak-stats.demolab.com/?user=ybg345&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<table>
+<tr>
+<td valign="top"><img height="165" src="./profile/top-langs.svg" alt="Top languages" /></td>
+<td valign="top"><img height="165" src="./profile/stats.svg" alt="GitHub stats" /></td>
+</tr>
+<tr>
+<td valign="top"><img height="165" src="./profile/pin-sql-hands-on.svg" alt="sql-hands-on" /></td>
+<td valign="top"><img height="165" src="./profile/pin-w3-resource-python.svg" alt="w3-resource-python" /></td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com/?user=ybg345&theme=default&hide_border=false&background=FFFFFF&border=D0D7DE&ring=0969DA&fire=0969DA&currStreakLabel=24292F&sideLabels=57606A&dates=57606A&currStreakNum=24292F&sideNums=24292F" alt="GitHub streak" />
+
 </div>
 
 ---
