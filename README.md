@@ -103,12 +103,13 @@ Current focus:
 
 <table>
 <tr>
-<td width="400" align="center" valign="top"><img width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ybg345&layout=compact&langs_count=8&card_width=400&hide=HTML,Jupyter%20Notebook&hide_border=false&theme=default&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&border_color=D0D7DE" alt="Top languages" /></td>
-<td width="400" align="center" valign="top"><img width="400" src="https://github-stats-extended.vercel.app/api?username=ybg345&show_icons=true&hide_border=false&theme=default&include_all_commits=true&count_private=true&rank_icon=percentile&custom_title=Mehedi%20Farazi%27s%20GitHub%20Stats&card_width=400&bg_color=FFFFFF&title_color=0969DA&icon_color=1A7F37&text_color=24292F&border_color=D0D7DE" alt="GitHub stats" /></td>
+<td width="320" align="center" valign="top"><img width="320" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ybg345&layout=compact&langs_count=6&card_width=320&hide=HTML,Jupyter%20Notebook&hide_border=false&theme=default&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&border_color=D0D7DE" alt="Top languages" /></td>
+<td width="320" align="center" valign="top"><img width="320" src="https://github-stats-extended.vercel.app/api?username=ybg345&show_icons=true&hide_border=false&theme=default&include_all_commits=true&count_private=true&rank_icon=percentile&custom_title=GitHub%20Stats&card_width=320&bg_color=FFFFFF&title_color=0969DA&icon_color=1A7F37&text_color=24292F&border_color=D0D7DE" alt="GitHub stats" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img width="640" src="https://github-readme-streak-stats-eight.vercel.app/?user=ybg345&theme=default&hide_border=false&background=FFFFFF&border=D0D7DE&ring=0969DA&fire=0969DA&currStreakLabel=24292F&sideLabels=57606A&dates=57606A&currStreakNum=24292F&sideNums=24292F&card_width=640" alt="GitHub streak" /></td>
 </tr>
 </table>
-
-<img width="495" src="https://github-readme-streak-stats-eight.vercel.app/?user=ybg345&theme=default&hide_border=false&background=FFFFFF&border=D0D7DE&ring=0969DA&fire=0969DA&currStreakLabel=24292F&sideLabels=57606A&dates=57606A&currStreakNum=24292F&sideNums=24292F" alt="GitHub streak" />
 
 </div>
 
