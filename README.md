@@ -111,6 +111,8 @@ Current focus:
 
 <img width="495" src="https://github-readme-streak-stats-eight.vercel.app/?user=ybg345&theme=default&hide_border=false&background=FFFFFF&border=D0D7DE&ring=0969DA&fire=0969DA&currStreakLabel=24292F&sideLabels=57606A&dates=57606A&currStreakNum=24292F&sideNums=24292F" alt="GitHub streak" />
 
+<br /><br />
+
 <img width="720" src="https://github-profile-trophy-sigma-eight.vercel.app/?username=ybg345&theme=flat&column=8&row=1&margin-w=4&margin-h=4&no-frame=true" alt="GitHub trophies" />
 
 </div>
