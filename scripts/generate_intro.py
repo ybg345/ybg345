@@ -10,8 +10,8 @@ from PIL import Image, ImageDraw, ImageFont
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "intro.gif"
 
-WIDTH, HEIGHT = 900, 200
-FPS = 15
+WIDTH, HEIGHT = 800, 180
+FPS = 12
 BG = (255, 255, 255)
 SKY = (248, 251, 255)
 TEXT = (36, 41, 47)
@@ -131,7 +131,7 @@ def render_frame(frame: int, phrase_idx: int, typed_chars: int, cursor_on: bool)
 
 def build_frames() -> list[Image.Image]:
     frames: list[Image.Image] = []
-    hold = FPS * 2
+    hold = FPS  # shorter pause between phrases
 
     for idx, phrase in enumerate(PHRASES):
         for n in range(len(phrase) + 1):

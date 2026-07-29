@@ -11,27 +11,24 @@
 <td align="center"><a href="https://www.kaggle.com/maf345"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="28" /></a></td>
 <td align="center"><a href="https://www.hackerrank.com/maf345"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="28" /></a></td>
 </tr>
-<tr>
-<td colspan="4" align="center"><img src="https://komarev.com/ghpvc/?username=ybg345&color=0969DA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" height="28" /></td>
-</tr>
 </table>
 
 </div>
 
 ---
 
-## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## 📖 About Me
 
 - 📊 **Senior Data Analyst** with **7.5+ years** across healthcare, telecom, and microinsurance
-- 🏗️ 𝙸 𝚍𝚎𝚜𝚒𝚐𝚗 **dashboards**, **data pipelines**, and **agentic AI workflows** — Snowflake · Tableau · LLMs
-- 💼 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚊𝚝 **Streams Tech Ltd.**, building healthcare AI and enterprise analytics for global clients
+- 🏗️ I design **dashboards**, **data pipelines**, and **agentic AI workflows** — Snowflake · Tableau · LLMs
+- 💼 Currently at **Streams Tech Ltd.**, building healthcare AI and enterprise analytics for global clients
 - 🎓 **B.Sc. CSE** — Military Institute of Science and Technology (MIST)
 
 ---
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+## ⬆ What I'm up to
 
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+- 🔨 I'm currently...
 
 ```yaml
 - Building agentic AI workflows for healthcare (LangChain, LLM evaluation)
@@ -41,20 +38,20 @@
 
 ---
 
-## 🎓 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜
+## 🎓 Certifications
 
 <table>
 <tr>
 <td align="center"><a href="https://www.credly.com/badges/314cd26d-e40f-490a-a1a5-1d6d4bc1fcf5"><img src="https://img.shields.io/badge/Snowflake-SnowPro-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake SnowPro" height="24" /></a></td>
 <td align="center"><a href="https://www.kaggle.com/learn/certification/maf345/intermediate-machine-learning"><img src="https://img.shields.io/badge/Kaggle-Intermediate_ML-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Intermediate ML" height="24" /></a></td>
 <td align="center"><a href="https://www.hackerrank.com/certificates/ee3617078666"><img src="https://img.shields.io/badge/HackerRank-Intermediate_Python-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank Intermediate Python" height="24" /></a></td>
-<td align="center"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/1c9ecfd5b2e44e5cbb9bcb6594a0f0cdb0f28c54"><img src="https://img.shields.io/badge/Tableau-Certified-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau Certified" height="24" /></a></td>
+<td align="center"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/1c9ecfd5b2e44e5cbb9bcb6594a0f0cdb0f28c54"><img src="https://img.shields.io/badge/DataCamp-Tableau-05192D?style=flat-square&logo=datacamp&logoColor=65FF98" alt="DataCamp Tableau" height="24" /></a></td>
 </tr>
 </table>
 
 ---
 
-## 🛠 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
+## 🛠 Tech Stack
 
 <table>
 <tr>
@@ -66,7 +63,6 @@
 </tr>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" height="24" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" height="24" /></td>
 <td align="center"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" height="24" /></td>
 <td align="center"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" height="24" /></td>
 <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="24" /></td>
@@ -75,7 +71,7 @@
 
 ---
 
-## 📈 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -92,7 +88,7 @@
 
 ---
 
-## 🏆 𝙶𝚒𝚝𝙷𝚞𝚋 𝚃𝚛𝚘𝚙𝚑𝚒𝚎𝚜
+## 🏆 GitHub Trophies
 
 <div align="center">
 <img width="720" src="https://github-profile-trophy-sigma-eight.vercel.app/?username=ybg345&theme=flat&column=8&row=1&margin-w=4&margin-h=4&no-frame=true" alt="GitHub trophies" />
@@ -102,6 +98,6 @@
 
 <div align="center">
 
-𝙳𝚊𝚝𝚊 𝚝𝚎𝚕𝚕𝚜 𝚊 𝚜𝚝𝚘𝚛𝚢 — 𝚖𝚢 𝚓𝚘𝚋 𝚒𝚜 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚒𝚝 𝚛𝚎𝚊𝚍𝚊𝚋𝚕𝚎, 𝚛𝚎𝚕𝚒𝚊𝚋𝚕𝚎, 𝚊𝚗𝚍 𝚊𝚌𝚝𝚒𝚘𝚗𝚊𝚋𝚕𝚎.
+Data tells a story — my job is to make it readable, reliable, and actionable.
 
 </div>
