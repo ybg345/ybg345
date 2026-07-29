@@ -41,8 +41,8 @@ GitHub may render external SVG badges as block elements (one per line). Use HTML
 
 ## Languages Card
 
-To hide languages that don't represent your core work (e.g. Jupyter Notebook from analysis repos):
+To hide languages that don't represent your core work (e.g. HTML exports or Jupyter Notebook analysis repos):
 
 ```
-&hide=Jupyter%20Notebook
+&hide=HTML,Jupyter%20Notebook
 ```

@@ -91,7 +91,7 @@ Current focus:
 
 <table>
 <tr>
-<td width="400" align="center" valign="top"><img width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ybg345&layout=compact&langs_count=8&card_width=400&hide=Jupyter%20Notebook&hide_border=false&theme=default&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&border_color=D0D7DE" alt="Top languages" /></td>
+<td width="400" align="center" valign="top"><img width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ybg345&layout=compact&langs_count=8&card_width=400&hide=HTML,Jupyter%20Notebook&hide_border=false&theme=default&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&border_color=D0D7DE" alt="Top languages" /></td>
 <td width="400" align="center" valign="top"><img width="400" src="https://github-stats-extended.vercel.app/api?username=ybg345&show_icons=true&hide_border=false&theme=default&include_all_commits=true&count_private=true&rank_icon=percentile&custom_title=Mehedi%20Farazi%27s%20GitHub%20Stats&card_width=400&bg_color=FFFFFF&title_color=0969DA&icon_color=1A7F37&text_color=24292F&border_color=D0D7DE" alt="GitHub stats" /></td>
 </tr>
 </table>
