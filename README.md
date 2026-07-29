@@ -19,21 +19,33 @@
 
 ## 📖 About Me
 
-- 📊 **Senior Data Analyst** with **7.5+ years** across healthcare, telecom, and microinsurance
-- 🏗️ I design **dashboards**, **data pipelines**, and **agentic AI workflows** — Snowflake · Tableau · LLMs
-- 💼 Currently at **Streams Tech Ltd.**, building healthcare AI and enterprise analytics for global clients
+**Senior Data Analyst** with **7.5+ years** of experience across **healthcare, commercial, telecom, and BI reporting**. I translate business requirements into reliable data models, dashboards, and decision-support solutions — partnering with technical and business stakeholders from metric design through delivery.
+
+- 🏗️ **Core strengths:** SQL · Python · Snowflake · Tableau · Power BI · ETL/ELT · KPI design · data validation · stakeholder-facing insights
+- 💼 **Team Lead** at **Streams Tech Ltd.** on a healthcare/commercial analytics project — delivery ownership, QA, and cross-functional coordination
+- 🤖 Building **Agentic AI & LLM-assisted analytics** workflows with LangSmith, prompt engineering, and structured output evaluation
 - 🎓 **B.Sc. CSE** — Military Institute of Science and Technology (MIST)
+
+---
+
+## 🚀 Career Highlights
+
+- 📊 Built **Tableau dashboards** used by **300+ stakeholders** across Europe for KPI tracking, performance monitoring, and operational insights
+- ⚡ **Reduced manual reporting effort by 80%** by automating data loading, refresh processes, and recurring workflows with Python, SQL, Pandas, and SQLAlchemy
+- 🔧 **Cut dashboard refresh failures by 60%** through improved pipeline design, validation checks, monitoring, and data quality controls
+- 🏆 Nominated for **Best Project in Innovation** for an internal operational data maintenance tool used by cross-functional telecom operations teams
+- 📈 Designed **Snowflake data models**, KPI frameworks, and BI reporting datasets supporting large-scale analytics initiatives
 
 ---
 
 ## ⬆ What I'm up to
 
-- 🔨 I'm currently...
-
 ```yaml
-- Building agentic AI workflows for healthcare (LangChain, LLM evaluation)
-- Developing analytics dashboards on Snowflake datamarts & IQVIA Orchestrated Analysis
-- Maintaining Tableau Server dashboards with cloud data warehouse backends
+Current focus:
+  - Leading delivery on a healthcare/commercial analytics assistant project
+  - Designing and evaluating Agentic AI workflows for medical data applications
+  - Building Snowflake datamarts, KPI layers, and Tableau Server dashboards
+  - Improving reporting reliability through validation, reconciliation, and anomaly checks
 ```
 
 ---
@@ -62,10 +74,11 @@
 <td align="center"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" height="24" /></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" height="24" /></td>
+<td align="center"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="24" /></td>
+<td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="24" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="24" /></td>
 <td align="center"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" height="24" /></td>
-<td align="center"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" height="24" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="24" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" height="24" /></td>
 </tr>
 </table>
 
