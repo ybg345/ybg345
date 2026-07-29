@@ -39,6 +39,14 @@ https://github-profile-trophy-sigma-eight.vercel.app/?username=ybg345
 
 GitHub may render external SVG badges as block elements (one per line). Use HTML `<table>` rows with one badge per `<td>` for reliable inline layout.
 
+To stretch badge tables to full profile width, add an invisible spacer row (GitHub ignores `width="100%"` on tables):
+
+```html
+<tr>
+  <td colspan="10"><img width="1200" height="0" alt="" /></td>
+</tr>
+```
+
 ## Languages Card
 
 To hide languages that don't represent your core work (e.g. HTML exports or Jupyter Notebook analysis repos):
