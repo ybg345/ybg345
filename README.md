@@ -37,16 +37,10 @@ Turning complex data into clear decisions · Dhaka, Bangladesh 🇧🇩
 ## 🚀 Career Highlights
 
 - 📊 Built **Tableau dashboards** used by **300+ stakeholders** across Europe for KPI tracking, performance monitoring, and operational insights
-
-<details>
-<summary><i>more...</i></summary>
-
 - ⚡ **Reduced manual reporting effort by 80%** by automating data loading, refresh processes, and recurring workflows with Python, SQL, Pandas, and SQLAlchemy
 - 🔧 **Cut dashboard refresh failures by 60%** through improved pipeline design, validation checks, monitoring, and data quality controls
 - 🏆 Nominated for **Best Project in Innovation** for an internal operational data maintenance tool used by cross-functional telecom operations teams
 - 📈 Designed **Snowflake data models**, KPI frameworks, and BI reporting datasets supporting large-scale analytics initiatives
-
-</details>
 
 ---
 
