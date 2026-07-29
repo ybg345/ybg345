@@ -91,17 +91,29 @@ Current focus:
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="24" /></td>
 <td align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" height="24" /></td>
+</tr>
+<tr>
 <td align="center"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" height="24" /></td>
+<td align="center"><img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" height="24" /></td>
+</tr>
+<tr>
 <td align="center"><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" height="24" /></td>
 <td align="center"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" height="24" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" height="24" /></td>
 <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="24" /></td>
+</tr>
+<tr>
 <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="24" /></td>
 <td align="center"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="24" /></td>
+</tr>
+<tr>
 <td align="center"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" height="24" /></td>
 <td align="center"><img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangSmith" height="24" /></td>
 </tr>
 <tr>
-<td colspan="10"><img width="1200" height="0" alt="" /></td>
+<td colspan="2"><img width="1200" height="0" alt="" /></td>
 </tr>
 </table>
 
