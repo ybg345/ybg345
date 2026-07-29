@@ -2,7 +2,9 @@
 
 <div align="center">
 
-**Turning complex data into clear decisions** · Dhaka, Bangladesh 🇧🇩
+**Senior Data Analyst · Snowflake · Tableau · Agentic AI**
+
+Turning complex data into clear decisions · Dhaka, Bangladesh 🇧🇩
 
 <table>
 <tr>
@@ -10,6 +12,9 @@
 <td align="center"><a href="https://github.com/ybg345"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28" /></a></td>
 <td align="center"><a href="https://www.kaggle.com/maf345"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="28" /></a></td>
 <td align="center"><a href="https://www.hackerrank.com/maf345"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="28" /></a></td>
+</tr>
+<tr>
+<td colspan="4" align="center"><a href="https://public.tableau.com/app/profile/maf345"><img src="https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public" height="28" /></a></td>
 </tr>
 </table>
 
@@ -19,11 +24,9 @@
 
 ## 📖 About Me
 
-**Senior Data Analyst** with **7.5+ years** of experience across **healthcare, commercial, telecom, and BI reporting**. I translate business requirements into reliable data models, dashboards, and decision-support solutions — partnering with technical and business stakeholders from metric design through delivery.
+**Senior Data Analyst** with **7.5+ years** across **healthcare, commercial, telecom, and BI reporting** — translating business requirements into data models, dashboards, and decision-support solutions.
 
-- 🏗️ **Core strengths:** SQL · Python · Snowflake · Tableau · Power BI · ETL/ELT · KPI design · data validation · stakeholder-facing insights
-- 💼 **Team Lead** at **Streams Tech Ltd.** on a healthcare/commercial analytics project — delivery ownership, QA, and cross-functional coordination
-- 🤖 Building **Agentic AI & LLM-assisted analytics** workflows with LangSmith, prompt engineering, and structured output evaluation
+- 💼 **Team Lead** at **Streams Tech Ltd.**, owning delivery on a healthcare/commercial analytics project
 - 🎓 **B.Sc. CSE** — Military Institute of Science and Technology (MIST)
 
 ---
@@ -43,7 +46,7 @@
 ```yaml
 Current focus:
   - Leading delivery on a healthcare/commercial analytics assistant project
-  - Designing and evaluating Agentic AI workflows for medical data applications
+  - Designing and evaluating Agentic AI workflows with LangSmith, prompt engineering, and structured output evaluation
   - Building Snowflake datamarts, KPI layers, and Tableau Server dashboards
   - Improving reporting reliability through validation, reconciliation, and anomaly checks
 ```
@@ -78,7 +81,7 @@ Current focus:
 <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="24" /></td>
 <td align="center"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="24" /></td>
 <td align="center"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" height="24" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" height="24" /></td>
+<td align="center"><img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangSmith" height="24" /></td>
 </tr>
 </table>
 
@@ -90,7 +93,7 @@ Current focus:
 
 <table>
 <tr>
-<td width="400" align="center" valign="top"><img width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ybg345&layout=compact&langs_count=8&card_width=400&hide_border=false&theme=default&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&border_color=D0D7DE" alt="Top languages" /></td>
+<td width="400" align="center" valign="top"><img width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ybg345&layout=compact&langs_count=8&card_width=400&hide=Jupyter%20Notebook&hide_border=false&theme=default&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&border_color=D0D7DE" alt="Top languages" /></td>
 <td width="400" align="center" valign="top"><img width="400" src="https://github-stats-extended.vercel.app/api?username=ybg345&show_icons=true&hide_border=false&theme=default&include_all_commits=true&count_private=true&rank_icon=percentile&custom_title=Mehedi%20Farazi%27s%20GitHub%20Stats&card_width=400&bg_color=FFFFFF&title_color=0969DA&icon_color=1A7F37&text_color=24292F&border_color=D0D7DE" alt="GitHub stats" /></td>
 </tr>
 </table>
