@@ -9,7 +9,7 @@
 <td align="center"><a href="https://www.linkedin.com/in/maf345"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" /></a></td>
 <td align="center"><a href="https://github.com/ybg345"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28" /></a></td>
 <td align="center"><a href="https://www.kaggle.com/maf345"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="28" /></a></td>
-<td align="center"><a href="https://www.hackerrank.com/ybg345"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="28" /></a></td>
+<td align="center"><a href="https://www.hackerrank.com/maf345"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="28" /></a></td>
 </tr>
 <tr>
 <td colspan="4" align="center"><img src="https://komarev.com/ghpvc/?username=ybg345&color=0969DA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" height="28" /></td>
@@ -22,7 +22,7 @@
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-- 📊 **Senior Data Analyst** with **7+ years** across healthcare, telecom, and microinsurance
+- 📊 **Senior Data Analyst** with **7.5+ years** across healthcare, telecom, and microinsurance
 - 🏗️ 𝙸 𝚍𝚎𝚜𝚒𝚐𝚗 **dashboards**, **data pipelines**, and **agentic AI workflows** — Snowflake · Tableau · LLMs
 - 💼 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚊𝚝 **Streams Tech Ltd.**, building healthcare AI and enterprise analytics for global clients
 - 🎓 **B.Sc. CSE** — Military Institute of Science and Technology (MIST)
@@ -45,10 +45,10 @@
 
 <table>
 <tr>
-<td align="center"><a href="https://www.linkedin.com/in/maf345"><img src="https://img.shields.io/badge/Snowflake-Certified-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake Certified" height="24" /></a></td>
+<td align="center"><a href="https://www.credly.com/badges/314cd26d-e40f-490a-a1a5-1d6d4bc1fcf5"><img src="https://img.shields.io/badge/Snowflake-SnowPro-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake SnowPro" height="24" /></a></td>
 <td align="center"><a href="https://www.kaggle.com/learn/certification/maf345/intermediate-machine-learning"><img src="https://img.shields.io/badge/Kaggle-Intermediate_ML-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Intermediate ML" height="24" /></a></td>
 <td align="center"><a href="https://www.hackerrank.com/certificates/ee3617078666"><img src="https://img.shields.io/badge/HackerRank-Intermediate_Python-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank Intermediate Python" height="24" /></a></td>
-<td align="center"><a href="https://www.datacamp.com/"><img src="https://img.shields.io/badge/DataCamp-Power_BI_%26_Deep_Learning-05192D?style=flat-square&logo=datacamp&logoColor=65FF98" alt="DataCamp Power BI and Deep Learning" height="24" /></a></td>
+<td align="center"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/1c9ecfd5b2e44e5cbb9bcb6594a0f0cdb0f28c54"><img src="https://img.shields.io/badge/Tableau-Certified-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau Certified" height="24" /></a></td>
 </tr>
 </table>
 
