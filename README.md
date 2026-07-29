@@ -86,7 +86,7 @@
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ybg345&theme=default&hide_border=false&background=FFFFFF&border=D0D7DE&ring=0969DA&fire=0969DA&currStreakLabel=24292F&sideLabels=57606A&dates=57606A&currStreakNum=24292F&sideNums=24292F" alt="GitHub streak" />
+<img src="./profile/streak.svg" alt="GitHub streak" />
 
 </div>
 
