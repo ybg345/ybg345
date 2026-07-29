@@ -109,8 +109,10 @@ Current focus:
 
 ---
 
+## 📈 GitHub Stats
+
 <details>
-<summary><b>Statistics about my profile</b> <i>(Click to expand!)</i></summary>
+<summary><b><font color="#0969DA">📊 Click to view stats, streak & trophies</font></b></summary>
 
 <div align="center">
 
