@@ -8,13 +8,11 @@ Turning complex data into clear decisions · Dhaka, Bangladesh 🇧🇩
 
 <table>
 <tr>
-<td align="center"><a href="https://www.linkedin.com/in/maf345"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" /></a></td>
-<td align="center"><a href="https://github.com/ybg345"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28" /></a></td>
-<td align="center"><a href="https://www.kaggle.com/maf345"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="28" /></a></td>
-<td align="center"><a href="https://www.hackerrank.com/maf345"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="28" /></a></td>
-</tr>
-<tr>
-<td colspan="4" align="center"><a href="https://public.tableau.com/app/profile/maf345"><img src="https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public" height="28" /></a></td>
+<td align="center"><a href="https://www.linkedin.com/in/maf345"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="22" /></a></td>
+<td align="center"><a href="https://github.com/ybg345"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="22" /></a></td>
+<td align="center"><a href="https://www.kaggle.com/maf345"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" height="22" /></a></td>
+<td align="center"><a href="https://www.hackerrank.com/maf345"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" height="22" /></a></td>
+<td align="center"><a href="https://public.tableau.com/app/profile/maf345"><img src="https://img.shields.io/badge/Tableau_Public-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau Public" height="22" /></a></td>
 </tr>
 </table>
 
