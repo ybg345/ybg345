@@ -22,24 +22,39 @@ Turning complex data into clear decisions · Dhaka, Bangladesh 🇧🇩
 
 ## 📖 About Me
 
-**Senior Data Analyst** with **7.5+ years** across **healthcare, commercial, telecom, and BI reporting** — translating business requirements into data models, dashboards, and decision-support solutions.
+**Senior Data Analyst** with **7.5+ years** across **healthcare, commercial, telecom, and BI reporting** — translating business requirements into data models<details><summary><i>more...</i></summary>
+
+, dashboards, and decision-support solutions.
 
 - 💼 **Team Lead** at **Streams Tech Ltd.**, owning delivery on a healthcare/commercial analytics project
 - 🎓 **B.Sc. CSE** — Military Institute of Science and Technology (MIST)
+
+</details>
 
 ---
 
 ## 🚀 Career Highlights
 
 - 📊 Built **Tableau dashboards** used by **300+ stakeholders** across Europe for KPI tracking, performance monitoring, and operational insights
+
+<details>
+<summary><i>more...</i></summary>
+
 - ⚡ **Reduced manual reporting effort by 80%** by automating data loading, refresh processes, and recurring workflows with Python, SQL, Pandas, and SQLAlchemy
 - 🔧 **Cut dashboard refresh failures by 60%** through improved pipeline design, validation checks, monitoring, and data quality controls
 - 🏆 Nominated for **Best Project in Innovation** for an internal operational data maintenance tool used by cross-functional telecom operations teams
 - 📈 Designed **Snowflake data models**, KPI frameworks, and BI reporting datasets supporting large-scale analytics initiatives
 
+</details>
+
 ---
 
 ## ⬆ What I'm up to
+
+Leading delivery on a healthcare/commercial analytics assistant project
+
+<details>
+<summary><i>more...</i></summary>
 
 ```yaml
 Current focus:
@@ -49,9 +64,16 @@ Current focus:
   - Improving reporting reliability through validation, reconciliation, and anomaly checks
 ```
 
+</details>
+
 ---
 
 ## 🎓 Certifications
+
+Snowflake SnowPro · Kaggle Intermediate ML · HackerRank Python · DataCamp Tableau
+
+<details>
+<summary><i>more...</i></summary>
 
 <div align="center">
 
@@ -69,9 +91,16 @@ Current focus:
 
 </div>
 
+</details>
+
 ---
 
 ## 🛠 Tech Stack
+
+Python · SQL · Snowflake · Tableau · Power BI · PostgreSQL · MySQL · Pandas · LangChain · LangSmith
+
+<details>
+<summary><i>more...</i></summary>
 
 <div align="center">
 
@@ -94,6 +123,8 @@ Current focus:
 </table>
 
 </div>
+
+</details>
 
 ---
 
