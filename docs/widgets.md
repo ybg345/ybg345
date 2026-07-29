@@ -7,8 +7,8 @@ Third-party README widgets can break when public services hit GitHub API rate li
 **Primary:** `github-stats-extended.vercel.app`
 
 ```
-https://github-stats-extended.vercel.app/api?username=ybg345
-https://github-stats-extended.vercel.app/api/top-langs/?username=ybg345
+https://github-stats-extended.vercel.app/api?username=maf345
+https://github-stats-extended.vercel.app/api/top-langs/?username=maf345
 ```
 
 ## GitHub Streak
@@ -18,9 +18,9 @@ https://github-stats-extended.vercel.app/api/top-langs/?username=ybg345
 **Fallback:** `github-readme-streak-stats-two.vercel.app` or `streak-stats.demolab.com`
 
 ```
-https://github-readme-streak-stats-eight.vercel.app/?user=ybg345
-https://github-readme-streak-stats-two.vercel.app/?user=ybg345
-https://streak-stats.demolab.com/?user=ybg345
+https://github-readme-streak-stats-eight.vercel.app/?user=maf345
+https://github-readme-streak-stats-two.vercel.app/?user=maf345
+https://streak-stats.demolab.com/?user=maf345
 ```
 
 If you see **"Failed to retrieve contributions"**, the public instance is rate-limited. Switch to another mirror above or self-host on Vercel with a GitHub token.
@@ -32,7 +32,7 @@ If you see **"Failed to retrieve contributions"**, the public instance is rate-l
 **Avoid (dead):** `github-profile-trophy-sigma-one.vercel.app` (404)
 
 ```
-https://github-profile-trophy-sigma-eight.vercel.app/?username=ybg345
+https://github-profile-trophy-sigma-eight.vercel.app/?username=maf345
 ```
 
 ## Badge Layout
