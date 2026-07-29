@@ -22,9 +22,10 @@ Turning complex data into clear decisions · Dhaka, Bangladesh 🇧🇩
 
 ## 📖 About Me
 
-**Senior Data Analyst** with **7.5+ years** across **healthcare, commercial, telecom, and BI reporting** — translating business requirements into data models<details><summary><i>more...</i></summary>
+**Senior Data Analyst** with **7.5+ years** across **healthcare, commercial, telecom, and BI reporting** — translating business requirements into data models, dashboards, and decision-support solutions.
 
-, dashboards, and decision-support solutions.
+<details>
+<summary><i>more...</i></summary>
 
 - 💼 **Team Lead** at **Streams Tech Ltd.**, owning delivery on a healthcare/commercial analytics project
 - 🎓 **B.Sc. CSE** — Military Institute of Science and Technology (MIST)
@@ -70,11 +71,6 @@ Current focus:
 
 ## 🎓 Certifications
 
-Snowflake SnowPro · Kaggle Intermediate ML · HackerRank Python · DataCamp Tableau
-
-<details>
-<summary><i>more...</i></summary>
-
 <div align="center">
 
 <table>
@@ -91,16 +87,9 @@ Snowflake SnowPro · Kaggle Intermediate ML · HackerRank Python · DataCamp Tab
 
 </div>
 
-</details>
-
 ---
 
 ## 🛠 Tech Stack
-
-Python · SQL · Snowflake · Tableau · Power BI · PostgreSQL · MySQL · Pandas · LangChain · LangSmith
-
-<details>
-<summary><i>more...</i></summary>
 
 <div align="center">
 
@@ -123,8 +112,6 @@ Python · SQL · Snowflake · Tableau · Power BI · PostgreSQL · MySQL · Pand
 </table>
 
 </div>
-
-</details>
 
 ---
 
