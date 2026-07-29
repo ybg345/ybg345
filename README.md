@@ -68,14 +68,17 @@ Current focus:
 <div align="center">
 
 <table>
-<tr bgcolor="#FFFFFF">
-<td bgcolor="#FFFFFF" align="center"><a href="https://www.credly.com/badges/314cd26d-e40f-490a-a1a5-1d6d4bc1fcf5"><img src="https://img.shields.io/badge/Snowflake-SnowPro-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake SnowPro" height="24" /></a></td>
-<td bgcolor="#FFFFFF" align="center"><a href="https://www.kaggle.com/learn/certification/maf345/intermediate-machine-learning"><img src="https://img.shields.io/badge/Kaggle-Intermediate_ML-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Intermediate ML" height="24" /></a></td>
-<td bgcolor="#FFFFFF" align="center"><a href="https://www.hackerrank.com/certificates/ee3617078666"><img src="https://img.shields.io/badge/HackerRank-Intermediate_Python-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank Intermediate Python" height="24" /></a></td>
-<td bgcolor="#FFFFFF" align="center"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/1c9ecfd5b2e44e5cbb9bcb6594a0f0cdb0f28c54"><img src="https://img.shields.io/badge/DataCamp-Tableau-05192D?style=flat-square&logo=datacamp&logoColor=65FF98" alt="DataCamp Tableau" height="24" /></a></td>
+<tr>
+<td width="25%" align="center"><a href="https://www.credly.com/badges/314cd26d-e40f-490a-a1a5-1d6d4bc1fcf5"><img src="https://img.shields.io/badge/Snowflake-SnowPro-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake SnowPro" height="24" /></a></td>
+<td width="25%" align="center"><a href="https://www.kaggle.com/learn/certification/maf345/intermediate-machine-learning"><img src="https://img.shields.io/badge/Kaggle-Intermediate_ML-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Intermediate ML" height="24" /></a></td>
+<td width="25%" align="center"><a href="https://www.hackerrank.com/certificates/ee3617078666"><img src="https://img.shields.io/badge/HackerRank-Intermediate_Python-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank Intermediate Python" height="24" /></a></td>
+<td width="25%" align="center"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/1c9ecfd5b2e44e5cbb9bcb6594a0f0cdb0f28c54"><img src="https://img.shields.io/badge/DataCamp-Tableau-05192D?style=flat-square&logo=datacamp&logoColor=65FF98" alt="DataCamp Tableau" height="24" /></a></td>
 </tr>
-<tr bgcolor="#FFFFFF">
-<td bgcolor="#FFFFFF" colspan="4"><img width="1200" height="0" alt="" /></td>
+</table>
+
+<table>
+<tr>
+<td colspan="4"><img width="1200" height="0" alt="" /></td>
 </tr>
 </table>
 
@@ -88,26 +91,35 @@ Current focus:
 <div align="center">
 
 <table>
-<tr bgcolor="#FFFFFF">
-<td bgcolor="#FFFFFF" align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="24" /></td>
-<td bgcolor="#FFFFFF" align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" height="24" /></td>
-<td bgcolor="#FFFFFF" align="center"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" height="24" /></td>
-<td bgcolor="#FFFFFF" align="center"><img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" height="24" /></td>
+<tr>
+<td width="25%" align="center"><img width="125" height="24" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></td>
+<td width="25%" align="center"><img width="125" height="24" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /></td>
+<td width="25%" align="center"><img width="125" height="24" src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" /></td>
+<td width="25%" align="center"><img width="125" height="24" src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" /></td>
 </tr>
-<tr bgcolor="#FFFFFF">
-<td bgcolor="#FFFFFF" align="center"><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" height="24" /></td>
-<td bgcolor="#FFFFFF" align="center"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" height="24" /></td>
-<td bgcolor="#FFFFFF" align="center"><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" height="24" /></td>
-<td bgcolor="#FFFFFF" align="center"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="24" /></td>
+</table>
+
+<table>
+<tr>
+<td width="25%" align="center"><img width="125" height="24" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" /></td>
+<td width="25%" align="center"><img width="125" height="24" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" /></td>
+<td width="25%" align="center"><img width="125" height="24" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" /></td>
+<td width="25%" align="center"><img width="125" height="24" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></td>
 </tr>
-<tr bgcolor="#FFFFFF">
-<td bgcolor="#FFFFFF" align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="24" /></td>
-<td bgcolor="#FFFFFF" align="center"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="24" /></td>
-<td bgcolor="#FFFFFF" align="center"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" height="24" /></td>
-<td bgcolor="#FFFFFF" align="center"><img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangSmith" height="24" /></td>
+</table>
+
+<table>
+<tr>
+<td width="25%" align="center"><img width="125" height="24" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /></td>
+<td width="25%" align="center"><img width="125" height="24" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /></td>
+<td width="25%" align="center"><img width="125" height="24" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /></td>
+<td width="25%" align="center"><img width="125" height="24" src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangSmith" /></td>
 </tr>
-<tr bgcolor="#FFFFFF">
-<td bgcolor="#FFFFFF" colspan="4"><img width="1200" height="0" alt="" /></td>
+</table>
+
+<table>
+<tr>
+<td colspan="4"><img width="1200" height="0" alt="" /></td>
 </tr>
 </table>
 
